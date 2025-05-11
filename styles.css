@@ -1,0 +1,208 @@
+.request-button {
+    background-color: black;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: opacity 0,20s;
+}
+.request-button:hover {
+    opacity: 0.6;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.40);
+}
+.request-button:active {
+    opacity: 0.4;
+}
+
+.add-button {
+    background-color: rgb(255, 252, 87);
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: opacity 0.20s backgraund-color 0.20s;
+}
+.add-button:hover {
+    opacity: 0.6;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.40);
+}
+.add-button:active {
+    background-color: rgb(232, 232, 34);
+}
+
+.sign-button {
+    background-color: green;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: opacity 0.20s backgraund-color 0.20s;
+}
+.sign-button:hover {
+    opacity: 0.8;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.40);
+}
+.sign-button:active {
+    background-color: rgb(16, 67, 16);
+}
+
+.get-button {
+    background-color: rgb(100, 100, 243);
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: opacity 0.15s font-style 0.15s;
+}
+.get-button:hover {
+    opacity: 0.6;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.40);
+}
+.get-button:active {
+    font-style: oblique;
+}
+
+.download-button {
+    background-color: rgb(108, 117, 125);
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: opacity 0.20s color 0.20s;
+}
+.download-button:hover {
+    opacity: 0.8;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.40);
+}
+.download-button:active {
+    color: blue;
+}
+
+.apply-button {
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-size: 15px;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: opacity 0.20s padding 0.30s;
+}
+.apply-button:hover {
+    opacity: 0.6;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.40);
+}
+.apply-button:active {
+    padding: 15px 30px;
+}
+
+.save-button {
+    background-color: white;
+    color: blue;
+    padding: 10px 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(6, 95, 212);
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    transition: color 0.15 backgraund-color 0.15s;
+}
+.save-button:hover {
+    opacity: 0.7;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.40);
+}
+.save-button:active {
+    background-color: blue;
+    color: white;
+}
+
+.link {
+    color: rgb(0, 113, 133);
+}
+.link:hover {
+    color: blue;
+}
+.link:active {
+    color: red;
+}
+
+.nike {
+    font-weight: bold;
+    font-size: 30px;
+    cursor: pointer;
+}
+.nike:hover {
+    color: red;
+}
+
+.stock {
+    color: rgb(0,118, 0);
+    cursor: pointer;
+}
+.stock:hover {
+    color: blue;
+}
+
+.cart-button {
+    background-color: rgb(255, 252, 87);
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: opacity 0.20s;
+}
+.cart-button:hover {
+    opacity: 0.6;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.40);
+}
+.cart-button:active {
+    opacity: 0.2;
+}
+
+.buy-button {
+    background-color: rgb(255, 164, 28);
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: opacity 0.20s;
+    
+}
+.buy-button:hover {
+    opacity: 0.6;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.40);
+}
+.buy-button:active {
+    opacity: 0.2;
+}
